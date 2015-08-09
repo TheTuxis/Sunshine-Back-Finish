@@ -40,7 +40,7 @@ import java.util.List;
 
 
 /**
- * A placeholder fragment containing a simple view.
+ * A placeholder detailfragment containing a simple view.
  */
 public class ForecastFragment extends Fragment {
 
