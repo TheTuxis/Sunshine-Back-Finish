@@ -12,6 +12,8 @@ import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
 import android.view.KeyEvent;
 
+import com.tuxis.sunshine.R;
+
 /**
  * A {@link PreferenceActivity} that presents a set of application settings.
  * <p>
